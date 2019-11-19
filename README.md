@@ -7,8 +7,9 @@ Het gastcollege is begonnen met de presentatie van Starring Jane en een korte ui
 >Hierdoor kan in de bedrijfsomgeving gebruikt gemaakt worden van Vue i.p.v React.
 
 # Cases
-
+ De sprekers van Starring Jane hebben enkele cases voorgelegd en hebben deze kort besproken.
 # Development proces
+De sprekers van Starring Jane hebben het development process uitgelegd van start tot einde in dit geval heb ik de chellenges genomen doe door hen gebruikt werden bij de besproken case.
 - ## Pitch
     Hierbij word het concept van het product voorgelegd doot de klant.
 - ## Concept Workshops
@@ -24,7 +25,7 @@ Het gastcollege is begonnen met de presentatie van Starring Jane en een korte ui
  - Planning om tegen een bepaalde tijd bepaalde dingen ag te werken. 
  - Feedback vragen aan de klant is mogelijk.
 
-- ## OntWikkeling
+- ## Ontwikkeling
     - Applicatie bestaat uit componenten 
     - Sidebar test framework
     - Computed variabele (hebben rekenkracht nodig om uitgevoerd te worden)
