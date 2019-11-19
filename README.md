@@ -9,15 +9,20 @@ Het gastcollege is begonnen met de presentatie van Starring Jane en een korte ui
 # Cases
 
 # Development proces
-- ## Pitch | 
-- ## Concept Workshops | geen functionaliteit uitgewerkt enkel concept
+- ## Pitch
+    Hierbij word het concept van het product voorgelegd doot de klant.
+- ## Concept Workshops
+    hierbij worden geen functionaliteit uitgewerkt enkel het concept is tot op dit punt uitgewerkt
 - ## Chalenges 
+    ### Bij de besproken case
     - Techisch:
         - Moest voeral bereikbaar zijn
         - Content moest deels offline beschikbaar zijn
         - Server issues bij lancering
         - Luchtballon moet kunnen bewegen
-- ## Sprint Planning | Planning om tegen een bepaalde tijd bepaalde dingen ag te werken. Feedback vragen aan de klant is mogelijk.
+- ## Sprint Planning
+ - Planning om tegen een bepaalde tijd bepaalde dingen ag te werken. 
+ - Feedback vragen aan de klant is mogelijk.
 
 - ## OntWikkeling
     - Applicatie bestaat uit componenten 
