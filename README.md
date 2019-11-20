@@ -1,5 +1,5 @@
 # Inleiding
-In Dit verslag zal gesproken worden over het gestcollege van Starring Jane op 19/11/2019
+In dit verslag zal gesproken worden over het gestcollege van Starring Jane op 19/11/2019
 
 # Start
 Het gastcollege is begonnen met de presentatie van Starring Jane en een korte uitleg over Vue.js
@@ -44,4 +44,4 @@ De sprekers van Starring Jane hebben het development process uitgelegd van start
  Bij het eindproduct konden de gebruikers van het product via verschillende opties hun overleden kennisen 'eren' met een ster aan de hemel, een blad op de boom, een soundtrack en een simpel bericht.
 
  # Conclusie
- De presentatie van Starring Jane slaagde erin om het principe van Vue.js duidelijk te maken het enige wat voor mij persoonlijk ontbrak was een kleien demo om misschien de basics te tonen.
+ De presentatie van Starring Jane slaagde erin om het principe van Vue.js duidelijk te maken het enige wat voor mij persoonlijk ontbrak was een kleine demo om misschien de basics te tonen.
